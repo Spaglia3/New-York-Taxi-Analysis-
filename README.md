@@ -1,2 +1,6 @@
-# New-York-Taxi-Analysis-
-Analayis of New York Taxis 
+# New York Taxi Analysis
+
+Explanation explanation
+## Methodology 
+This is my work.....
+
